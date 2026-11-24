@@ -1,0 +1,9 @@
+{
+  "app_id": "AutomationDesktop",
+  "version": "2.0.1",
+  "download_url": "https://your-host.example/releases/ADM-2.0.1.zip",
+  "sha256": "replace-with-64-character-sha256-hex",
+  "package_root": "AutomationDesktop",
+  "minimum_version": "2.0.0",
+  "release_notes": "Mô tả thay đổi của bản phát hành"
+}
