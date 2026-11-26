@@ -1,0 +1,8 @@
+{
+  "app_id": "AutomationDesktop",
+  "version": "2.0.0",
+  "download_url": "https://github.com/nguyencongduc-cnc/adm-updates/releases/download/v2.0.0/ADM-2.0.0.zip",
+  "sha256": "af383f5c7632b2c1d20830ccbbaf72168acffb833f81131a4b690b099a519645",
+  "release_notes": "ADM 2.0.0 - Ban phat hanh dau tien",
+  "package_root": "AutomationDesktop"
+}
